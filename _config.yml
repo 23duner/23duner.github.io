@@ -9,7 +9,8 @@ baseurl:
 # Title of the Site
 title: 23duner's blog
 # Description of the Site 既然写博客了 就要考虑可读性
-description: 互联网冥想盆&项目墓地(19th Birthday Gift to Myself)
+description: 19th Birthday Gift to Myself：互联网冥想盆&项目文件夹
+
 # URL of Image of the Site 
 site-image: 
 # Keywords of the Site 关键词检索 就是tag吗
@@ -18,7 +19,8 @@ site-keywords: 23duner,23墩儿,哈威
 favicon-url: /blog_photo/site-image.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: \blog_photo\game.jpg
+heroimage: /blog_photo/game.jpg  
+#只识别/这种
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: 23duner@gmail.com
