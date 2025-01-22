@@ -1,6 +1,8 @@
 # 指定markdown渲染器
 markdown: kramdown
-
+kramdown:
+  input: GFM
+  
 #网站的主要网址，你可以在这里指定网站的完整URL。
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
