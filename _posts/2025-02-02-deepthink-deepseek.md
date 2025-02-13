@@ -2,8 +2,7 @@
 title: 什么是deepseek？
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: 物物而不物于物，念念而不念于念
-对还在野蛮生长的deepseek，留存一些记忆~
+description: 物物而不物于物，念念而不念于念，对还在野蛮生长的deepseek，留存一些记忆
 tags:
 - 未至之境
 - 你还能不能问出这么多问题
